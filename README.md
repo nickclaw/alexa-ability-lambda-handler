@@ -1,4 +1,4 @@
-# alexa-ability-lambda-handler
+# alexa-ability-lambda-handler [![Build Status](https://travis-ci.org/nickclaw/alexa-ability-lambda-handler.svg?branch=master)](https://travis-ci.org/nickclaw/alexa-ability-lambda-handler)
 
 ### Example
 
