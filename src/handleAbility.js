@@ -1,6 +1,6 @@
 import debug from 'debug';
 
-const log = debug('lambda-handler:handleAbility');
+const log = debug('alexa-ability-lambda-handler:handleAbility');
 
 export function handleAbility(ability) {
     log('creating handler');
